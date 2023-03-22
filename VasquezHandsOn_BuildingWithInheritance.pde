@@ -1,5 +1,5 @@
 // Hands on: Building with Inheritance
-// Amber Vasquez, kav835
+// Amber 
 // Wed Sep 22 
 
 ColoredSpot csp1;
