@@ -1,0 +1,18 @@
+// project description text file, assignment6_description.txt
+// from the position of what you accomplished rather than what you were planning
+// document which group member worked on which part of the assignment
+
+// summarizes the intended animation which we accomplished
+The intended animation is an outside scene of a cloudy and snowy day. There are lots of snowflakes slowly falling from multiple white clouds that move across the sky. There are multiple fires burning that have flames that fly up into the air and disappear as the fire continuously burns. Smoke is emitted from these fires which has smoke that slowly rises up.
+
+// what the included classes do
+Aman Tewani: The cloud class creates multiple white clouds on the screen. Each cloud moves across the screen according to the forces applied to the cloud objects, which there are two. The clouds momentarily slow down before they continue moving across the screen as a result of the second force.
+
+Jalisa Broussard: The fire class creates an animated fire that has particle that move upward quickly before fading and disappearing. The fire class creates different colored fires that have a gravity parameter which pulls the particles downward and a wind parameter that sweeps the fire's particles to the left or right. The fires can be made bigger or smaller by adjusting the radius parameter of the particles.
+
+Amber Etana Vasquez: The smoke class creates a round gray puff of smoke that slowly rises on the screen. The gray object expands as it moves upward to create the slow rising movement of smoke.
+
+Marcos Juarez: The snowflake class creates many small snowflake shapes that appear on screen and slowly move downward. The snowflakes have slight variations in color and number of points. The snowflakes increase in speed as the fall according the gravity parameter. They also move according the wind parameter which can sway the snowflakes left or right as they move downward.
+
+// any unexpected challenges
+Incorporating the timer class for the clouds was a little intricate but was manageable.
