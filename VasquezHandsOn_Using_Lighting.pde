@@ -1,5 +1,5 @@
 // Hands On: Using lighting
-// Amber Vasquez kav835
+// Amber 
 
 // 1. Create 3D objects in a scene as well as a camera
 
