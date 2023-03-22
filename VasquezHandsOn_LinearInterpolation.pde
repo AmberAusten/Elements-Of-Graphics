@@ -1,5 +1,5 @@
 // Hands on: Linear Interpolation 
-// Amber Etana
+// Amber 
 // Oct 4, 2021
 
 float x = 200;
