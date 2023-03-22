@@ -1,0 +1,4 @@
+For this project we used simple functions to create the files and produce the list.
+We divide the task such that Jalisa and Marcos could share the load as evenly as possible.
+Jalisa took the a3_novelvisuilisation file. We shared the python code and each did two files.
+Marcos took the rest of the assignment. 
