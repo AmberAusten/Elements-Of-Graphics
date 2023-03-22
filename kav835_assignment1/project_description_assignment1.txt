@@ -1,0 +1,7 @@
+Assignment 1 
+Amber Etana Vasquez.kav835
+Sep 7, 2021 
+
+In this scene I am depicting a person looking up at the moon and stars with a telescope.
+I filled the ends of the telescope and the moon in black as if there were an eclipse, and used color in the framing of the scene to contrast the simplicity of the black and grey drawing. 
+To do this,the moon had to be created before popping the style in the first segment of code. 
