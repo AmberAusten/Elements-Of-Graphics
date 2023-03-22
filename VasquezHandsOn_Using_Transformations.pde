@@ -1,5 +1,5 @@
 // Hands On: Using Transformations 
-// Amber Etana Vasquez 
+// Amber 
 // Wed Sep 29,2021 
 
 
