@@ -1,5 +1,5 @@
 // Assignment 1
-// Amber Etana Vasquez. kav835
+// Amber
 // Sep 7, 2021 
 
 
