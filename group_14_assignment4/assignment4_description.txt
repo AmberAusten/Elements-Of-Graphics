@@ -1,0 +1,24 @@
+// project description text file, assignment4_description.txt
+// from the position of what you accomplished rather than what you were planning
+// document which group member worked on which part of the assignment
+
+// that summarizes what the intended animation was
+We intended to create a pacman style animation that has ghosts moving from left to right across the screen with eyes that rotate around looking for pacman and pacwoman. Pacman and pacwoman also move across the screen. Pacman moves from left to right and pacwoman moves
+from right to left. Their mouths have an open and closing animation. After a set number of
+animations, the screen fades to dark and says "The End" before disappearing and having the 
+animation loop again from the beginning.
+
+// what the included classes do
+Jalisa Broussard: Ghost class creates the ghost body and uses the Eye class to create two eye objects for each
+ghost. The ghost moves from left to right across the screen. The eyes on each ghost have black
+dots for pupils that rotate around to create the "looking around" animation as the body moves.
+
+Amber Etana Vasquez: Fade class begins after a certain number of animations and makes the background of the screen
+darker while displaying "The End" text and randomly located white spots that fade in and out
+on the screen.
+
+Marcos Juarez: The pacman and pacwoman class create yellow circle shapes that are animated to move across the
+screen while having their triangular shaped mouth open and close. The pacwoman class extends the pacman class and adds a bow shape to the corner of the pacwoman shape.
+
+// any unexpected challenges
+None.
