@@ -1,5 +1,4 @@
-//Amber Etana Vasquez kav835
-//CS324e
+//Amber 
 //Hands on: Creating Geometry 
 
 void setup() {
