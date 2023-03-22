@@ -1,6 +1,6 @@
 // Hands-on: Using Color 
-// Amber Etana Vasquez kav835
-// CS324e Sep 1, 2021 
+// Amber 
+// Sep 1, 2021 
 
 
 void setup () {
