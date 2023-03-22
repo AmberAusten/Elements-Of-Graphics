@@ -1,5 +1,5 @@
 // Hands-On: Triggering Events
-// Amber Vasquez kav835 
+// Amber 
 
 void setup () {
   size(600,600);
