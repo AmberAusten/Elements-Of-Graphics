@@ -1,0 +1,28 @@
+// Summary of game functionality: 
+Space Invaders is a game of eliminating invaders that descend upon the player ship from the top of the screen moving incrementally side to side and down the screen.
+Invaders will vary in speed as they descend as well for additional challenge. 
+The goal of the player is to eliminate all invaders before they reach the ship. 
+This game is based off of the original Japanese game Space Invaders, a game released in 1978 by Taito which is a fixed shooter game in which the player moves a laser cannon horizontally across the bottom of the screen and fires at aliens overhead.
+
+
+// Rules of play:
+Use arrow keys to move ship left and right
+Press the spacebar to shoot bullets
+ 
+// Win and lose conditions: 
+To win, shoot and eliminate all alien invaders.
+If alien invaders reach your ship, you will lose. 
+
+// Document which group member worked on which part of the assignment, what the included classes do, unexpected challenge:
+
+Jalisa: made the ship with an image overlay for the graphic and ship class which moves with keyboard entry left and right using arrow keys. Added background music for the game. Added sound effects for each shot fired. Also worked on the keyboard functionality for right and left arrow input on the ship.
+
+Amber: creation of bullet object, class, and functionality. This class creates the bullet, its location, speed and velocity as well as size. The bullet launches from incorporated into the ship class so it launches from the ships location. One challenge was figuring out how to shoot multiple bullets rather than one at a time. To solve this we built a bullet array to create bullets from ship. Also created key functionality to change bullet color, background color, and the space bar to shoot bullets. 
+
+Marcos: made the invaders and invader row classes. The classes create systems of invaders for the player to shoot. The system of enemies moves in unison and will change direction the moment one invader reaches the edge of the screen.  The main challenge I faced was finding a way to know when a bullet collided with an invader, and deleting both the bullet and the specific invader. In the end I used a system of arrays, to locate which invader was hit, and easily remove it and the bullet. Added animations to the invaders with an image that has eye balls. Also added animations to the ship which adds a fire and particle affect out the backside of the ship.
+
+Aman: made the GUI and the win/loss end game screens. Keeping the GUI accurately updated was challenging initially but was successfully completed after creating new variables and passing them into the GUI. made both the GUI systems for score and background music. Also added the functionality for outputting a text file with all the scoring information for a run of the program.
+
+
+
+
