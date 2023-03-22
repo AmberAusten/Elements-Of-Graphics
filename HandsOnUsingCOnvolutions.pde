@@ -1,5 +1,5 @@
 // Hands on: Using Convolutions 
-// Amber Vasquez kav835
+// Amber 
 // Sep 8, 2021
 
 PImage img;
