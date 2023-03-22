@@ -1,5 +1,5 @@
-//Amber Etana Vasquez kav835
-//Using Attributes CS324e 
+//Amber 
+//Using Attributes 
 //Aug 30, 2021 
 
 
