@@ -1,5 +1,5 @@
 // Hands on: Using Strings 
-// Amber Vasquez,kav835
+// Amber
 
 PrintWriter output; 
  
