@@ -1,5 +1,5 @@
 // Hands On: Buttons
-// Amber Vasquez kav835
+// Amber 
 
 // Press Play
 // Click Rectangle 2X first 
