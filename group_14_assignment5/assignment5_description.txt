@@ -1,0 +1,14 @@
+// project description text file, assignment5_description.txt
+// from the position of what you accomplished rather than what you were planning
+// document which group member worked on which part of the assignment
+
+// summary of intended animation 
+	The animation will involve a snowman scene with clouds, snowflakes, and a sun with halo effect as well as a moon with halo effect. 
+
+// what the included classes do
+	Cloud and Snowflake class, by Marcos, will be creating snowflakes and cloud objects. The clouds will be a collection of spheres and the snowflakes will be a series of connected lines to make the classic snowflake design. The cloud objects will move left to right, I will also have them move up and down in an oscillating motion. The snowflakes will move downward and spin on their vertical axis
+	The Snowman class, by Jalisa, is made of three stacked sphere shapes and two thin rectangular shapes for arms. The snowmen will translate across the screen while the arms move in an up and down motion while connected to the snowman body.
+	The Celestial class, by Amber, will contain and sun and a moon, the sun setting and the moon rising. A halo around the sun will radiate and a halo around the moon will birth the moonrise. The sun and moon both rotate on their own axis while translating up and down the screen. The halo radiates, the effect done by as its radius expanding and contracting.
+
+// any unexpected challenges
+	The celestial class was challenging to learn how to differentiate the movements, colors, and effects. No other challenges. 
