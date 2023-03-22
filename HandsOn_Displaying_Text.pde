@@ -1,5 +1,5 @@
 // Hands On: Displaying Text 
-// Amber Vasquez, kav835
+// Amber 
 
 // “With freedom, flowers, books, and the moon, who could not be perfectly happy?” 
 // ― Oscar Wilde, De Profundis
