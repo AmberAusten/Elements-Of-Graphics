@@ -1,5 +1,5 @@
 // Hands On: Creating Classes 
-// Amber Vasquez, kav835
+// Amber 
 // Sep 20, 2021
 
 Spot sp;
